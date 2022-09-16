@@ -8,3 +8,12 @@ let f = BigInt(654)
 let g = undefined
 console.log(a, b, c, d, e, f, g)
 console.log(typeof(f))
+
+// Object in JS
+const item = {
+    "Atul": true,
+    "Harsh": false,
+    "Suraj": 55,
+    "Aman": undefined
+}
+console.log(item["Atul"])
