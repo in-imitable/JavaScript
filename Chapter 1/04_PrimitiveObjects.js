@@ -10,10 +10,10 @@ console.log(a, b, c, d, e, f, g)
 console.log(typeof(f))
 
 // Object in JS
-const item = {
-    "Atul": true,
-    "Harsh": false,
-    "Suraj": 55,
-    "Aman": undefined
+const car = {
+    "name": "Mustang",
+    "color": "Blue",
+    "model": 1967,
+    "price": undefined
 }
-console.log(item["Atul"])
+console.log(car["name"])
