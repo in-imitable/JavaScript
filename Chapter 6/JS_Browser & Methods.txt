@@ -1,0 +1,9 @@
+Chapter 6
+
+1. JS Browser
+2. Script Tag
+3. Console Object Methods
+4. Interaction: alert, prompt and confirm
+5. Window Object: BOM & DOM
+    -> Browser Object Model
+    -> Document Object Model
