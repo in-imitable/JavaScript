@@ -25,7 +25,7 @@ while (i < 10) {
 console.timeEnd("whileLoop")
 */
 
-
+/*
 //Interaction: alert, prompt, confirm
 alert("Enter the value of a!")
 let a = prompt("Enter a here", "578")
@@ -38,3 +38,9 @@ if (write) {
 else {
   document.write("Please allow me to write")
 }
+*/
+
+//BOM, DOM and Window Object
+window.console.log(window)
+console.log(document.body)
+document.body.style.background = "yellow"
