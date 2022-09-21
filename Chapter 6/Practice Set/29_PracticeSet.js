@@ -1,3 +1,5 @@
+// Chapter 6 - Q1, Q2, Q3
+/*
 runAgain = true
 
 const canDrive = (age) => {
@@ -20,4 +22,13 @@ while(runAgain){
         alert("Sorry! You cannot drive")
     }
     runAgain = confirm("Do you want to see the prompt again?")
+}
+*/
+
+// Q4
+let number = prompt("Enter your number:")
+number = Number.parseInt(number)
+
+if(number>4){
+    location.href = "https://google.com"
 }
