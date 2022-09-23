@@ -1,0 +1,30 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+
+.container{
+    margin: 10px 60px;
+    margin-top: 30px;
+    text-align: center;
+    background-color: antiquewhite;
+    width: 0px;
+    height: 250px;
+    padding: 10px 10px;
+}
+
+#button{
+    margin: auto;
+    display: block;
+}
+
+#heading{
+    font-size: xx-large;
+}
+
+#jokes{
+    font-size: x-large;
+    padding: 20px 40px;
+    margin: auto;
+}
