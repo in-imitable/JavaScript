@@ -3,7 +3,7 @@ html, body {
     width: 100%;
 }
 
-.yellow {
+/* .yellow {
     background-color: yellow;
     color: white;
 }
@@ -15,4 +15,9 @@ html, body {
 
 .text-dark {
     color: black;
+} */
+
+/* for 47th script */
+.container{
+    background: lightblue;
 }
